@@ -53,3 +53,8 @@ I'm a Full Stack Developer passionate about Backend Development, interested in b
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yh0N&theme=aura)](https://git.io/streak-stats)
+
+<p align="center">
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
